@@ -11,4 +11,4 @@ Es wird also notwendigt den development Branch zu erstellen
 # Entscheidung zum Spiel wurde getroffen
 Es wurde entschieden das eine Variante des beliebten Spiels 4 gewinnt programmiert werden sollte.
 Gesehen wurde diese Variant bei dem Schülertag.
-Es soll eine GUI geben.
+/newline Es soll eine GUI geben.
